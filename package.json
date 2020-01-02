@@ -1,0 +1,12 @@
+{
+    "name": "com.psyinf.kdtrees",
+    "displayName": "KDTrees Volumes",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "KDTree implementation",
+    "keywords": [
+        "maths",
+        "unity"
+    ],
+    "category": "Unity"
+}
